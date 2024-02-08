@@ -25,12 +25,15 @@ Before using these queries, ensure the following prerequisites are met:
 
 The queries provided in this repository cover various aspects of managing data related to departments, employees, jobs, and locations. Some common operations include:
 
+- Uses of clause DISTINCT, AS, FROM, WHERE, BETWEEN, LIKE, COUNT,GROUP BY, ORDER BY, DESC, JOINS (INNER, LEFT, RIGHT, FULL)
 - Retrieving information about departments, employees, jobs, and locations.
 - Joining table to the database
 - Adding new records to the database.
 - Updating existing records.
 - Deleting records as needed.
+- Calculating aggregate statistics such as average, minimum, and maximum salaries.
 - Performing data analysis, such as calculating aggregate functions or generating reports.
+
 
 ## Usage
 
